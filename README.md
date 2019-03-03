@@ -3,7 +3,7 @@
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
-[Link to another page](./tutorial/Numpy_tutorial.html).
+[Link to another page](./tutorials/Numpy_Tutorial.html).
 
 There should be whitespace between paragraphs.
 
